@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Activity.AAATask__c</members>
-        <members>Activity.Activity_Custom_field_2__c</members>
-        <members>Activity.Activity_Custom_field_3__c</members>
-        <members>Activity.Activity_Custom_field_4__c</members>
-        <members>Activity.add_metadata_1__c</members>
-        <members>Activity.add_metadata_2__c</members>
-        <name>CustomField</name>
+        <members>AppleWatch</members>
+        <name>ApexClass</name>
     </types>
     <version>56.0</version>
 </Package>
