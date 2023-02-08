@@ -9,5 +9,13 @@
         <members>AppleWatch</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>Case.Destructive_full_profile_POC__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Profile 20%2E7</members>
+        <name>Profile</name>
+    </types>
     <version>56.0</version>
 </Package>
