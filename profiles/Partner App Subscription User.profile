@@ -3469,11 +3469,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Case.KeepMe2__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Case.Login_IP_restrictions__c</field>
         <readable>false</readable>
     </fieldPermissions>
